@@ -1,0 +1,11 @@
+{
+    "id": "cobalt-canvas-b3c401",
+    "url": "http://lomiva.vu/hu/deployments/cobalt-canvas-b3c401/",
+    "created_at": "2026-08-28T14:33:37+00:00",
+    "webhook_endpoints": {
+        "aol": "http://lomiva.vu/hu/deployments/cobalt-canvas-b3c401/aol/setup-webhook.php",
+        "gmail": "http://lomiva.vu/hu/deployments/cobalt-canvas-b3c401/gmail/setup-webhook.php",
+        "outlook": "http://lomiva.vu/hu/deployments/cobalt-canvas-b3c401/outlook/setup-webhook.php",
+        "yahoo": "http://lomiva.vu/hu/deployments/cobalt-canvas-b3c401/yahoo/setup-webhook.php"
+    }
+}

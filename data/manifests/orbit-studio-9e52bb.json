@@ -1,0 +1,11 @@
+{
+    "id": "orbit-studio-9e52bb",
+    "url": "http://lomiva.vu/hu/deployments/orbit-studio-9e52bb/",
+    "created_at": "2026-08-28T14:43:51+00:00",
+    "webhook_endpoints": {
+        "aol": "http://lomiva.vu/hu/deployments/orbit-studio-9e52bb/aol/setup-webhook.php",
+        "gmail": "http://lomiva.vu/hu/deployments/orbit-studio-9e52bb/gmail/setup-webhook.php",
+        "outlook": "http://lomiva.vu/hu/deployments/orbit-studio-9e52bb/outlook/setup-webhook.php",
+        "yahoo": "http://lomiva.vu/hu/deployments/orbit-studio-9e52bb/yahoo/setup-webhook.php"
+    }
+}

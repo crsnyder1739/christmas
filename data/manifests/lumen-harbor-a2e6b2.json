@@ -1,0 +1,11 @@
+{
+    "id": "lumen-harbor-a2e6b2",
+    "url": "http://4f60ae7a72b1c0.lhr.life/deployments/lumen-harbor-a2e6b2/",
+    "created_at": "2026-10-01T18:54:15+00:00",
+    "webhook_endpoints": {
+        "aol": "http://4f60ae7a72b1c0.lhr.life/deployments/lumen-harbor-a2e6b2/aol/setup-webhook.php",
+        "gmail": "http://4f60ae7a72b1c0.lhr.life/deployments/lumen-harbor-a2e6b2/gmail/setup-webhook.php",
+        "outlook": "http://4f60ae7a72b1c0.lhr.life/deployments/lumen-harbor-a2e6b2/outlook/setup-webhook.php",
+        "yahoo": "http://4f60ae7a72b1c0.lhr.life/deployments/lumen-harbor-a2e6b2/yahoo/setup-webhook.php"
+    }
+}

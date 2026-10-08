@@ -1,0 +1,11 @@
+{
+    "id": "cobalt-wave-204bd5",
+    "url": "https://vi.cultueva.org/deployments/cobalt-wave-204bd5/",
+    "created_at": "2026-09-24T15:44:58+00:00",
+    "webhook_endpoints": {
+        "aol": "https://vi.cultueva.org/deployments/cobalt-wave-204bd5/aol/setup-webhook.php",
+        "gmail": "https://vi.cultueva.org/deployments/cobalt-wave-204bd5/gmail/setup-webhook.php",
+        "outlook": "https://vi.cultueva.org/deployments/cobalt-wave-204bd5/outlook/setup-webhook.php",
+        "yahoo": "https://vi.cultueva.org/deployments/cobalt-wave-204bd5/yahoo/setup-webhook.php"
+    }
+}
